@@ -9,7 +9,7 @@ Este projeto tem como propósito comparar dois métodos para inpeção de rebite
 ## :scroll: Cartaz
 O cartaz do trabalho se encontra disponível através deste [link](https://www.canva.com/design/DAE7zH7mkzE/X6cR8bILtNZWs33wh2-Mpw/view?utm_content=DAE7zH7mkzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 ## :movie_camera: Apresentação
-A apresentação do trabalho se encontra disponível através deste [link](https://www.google.com).
+A apresentação do trabalho se encontra disponível através deste [link](https://youtu.be/s0onHR5sB00).
 ## :computer: Códigos
 ### **Abordagem clássica:**
 
