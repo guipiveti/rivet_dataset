@@ -14,6 +14,6 @@ A apresentação do trabalho se encontra disponível através deste [link](https
 ### **Abordagem clássica:**
 
 1. [Este arquivo](Notebooks/Basic_Rivet_Abordagem_Clássica.ipynb) do Google Colab apresenta para uma única imagem do *dataset* a sequência de procedimentos executados na abordagem clássica a fim de facilitar o entendimento passo a passo dos procedimentos.
-2. Baseado no anterior, [este arquivo](https://colab.research.google.com/drive/19hXS9g0q2PQN1uWGPX_z06jMrBgATwZa?usp=sharing) executa a mesma sequência em 80% das imagens do dataset a fim de definir as características esperadas dos rebites não fraturados e assim criar uma árvore de decisão para a classificação. Esta árvore é então aplicada aos 20% restantes avaliando assim sua eficiência.
+2. Baseado no anterior, [este arquivo](Notebooks/Rivet_New_Version.ipynb) executa a mesma sequência em 80% das imagens do dataset a fim de definir as características esperadas dos rebites não fraturados e assim criar uma árvore de decisão para a classificação. Esta árvore é então aplicada aos 20% restantes avaliando assim sua eficiência.
 ### **Abordagem por *Deep Learning*:**
-1. [Este arquivo](https://colab.research.google.com/drive/1NRD6LyyQs5nOSM0WA2S_kY0RoM7TJ_9u?usp=sharing) do Google Colab contêm a implementação da rede neural YOLO 5 para o *dataset* dos rebites.
+1. [Este arquivo](Notebooks/YOLOv5_Custom_Training.ipynb) do Google Colab contêm a implementação da rede neural YOLO 5 para o *dataset* dos rebites.
